@@ -23,8 +23,6 @@ Installation
 	•	Conda or Miniforge package manager
 	•	Required libraries: RDKit, scikit-learn, pandas, numpy, matplotlib, seaborn
 
-	Setup
-bash
 # Create and activate environment
 conda create -n solubility-ml python=3.10
 conda activate solubility-ml
