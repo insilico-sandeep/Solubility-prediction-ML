@@ -4,8 +4,8 @@ Machine learning project predicting aqueous solubility of drug-like molecules us
 Molecular Aqueous Solubility Prediction Using Machine Learning
 
 Overview
-This project aims to build and evaluate machine learning models to predict aqueous solubility (logS) of small molecules based on molecular descriptors. Accurate solubility prediction is crucial in drug discovery, impacting absorption, bioavailability, and pharmacokinetics.
-The study uses the Delaney (ESOL) solubility dataset and applies multiple regression algorithms including Random Forest and Linear Regression to predict the logS values. Feature importance analysis highlights key molecular properties influencing solubility. This repository includes data processing, model training, evaluation, and visualization scripts implemented in Python with libraries such as RDKit, scikit-learn, pandas, and matplotlib.
+This project aims to develop and evaluate machine learning models for predicting the aqueous solubility (logS) of small molecules based on molecular descriptors. Accurate solubility prediction is crucial in drug discovery, as it significantly impacts absorption, bioavailability, and pharmacokinetics.
+The study uses the Delaney (ESOL) solubility dataset and applies multiple regression algorithms, including Random Forest and Linear Regression, to predict the logS values. Feature importance analysis highlights the key molecular properties that influence solubility. This repository includes data processing, model training, evaluation, and visualisation scripts implemented in Python with libraries such as RDKit, scikit-learn, pandas, and matplotlib.
 
 Table of Contents
 	•	Installation
